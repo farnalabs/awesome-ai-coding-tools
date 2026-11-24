@@ -527,6 +527,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[BlitzHash Architecture Review](https://github.com/blitzhash360-web/blitzhash-architecture-review)** – Agent skill (Claude Code, Cursor, AGENTS.md) plus CLI that maps a codebase's stack and data flow and writes a plain-English report: scorecard for security, scaling, cost, backups and tests, risky spots with file/line, and a paste-ready prompt for your AI editor to fix each one. Free and open source (MIT).
 - **[Grapim](https://github.com/grapim/grapim)** – Open-source pull request reviewer for code written by coding agents (Claude Code, Codex, Cursor), which flags changes the agent was not asked to make. Runs as a GitHub App or as a GitHub Action on your own model key.
 - **[opendrs](https://github.com/error-path/opendrs)** – Open-source PR risk score and blast radius analyzer: a calibrated 0-1 score from git history and the import graph, used to auto-approve low-risk PRs after an AI review passes. GitHub Action, CLI and MCP server.
+- **[verifair](https://github.com/romanzdk/verifair)** – Self-hosted place where coding agents publish change reports (intent, evidence, verification) and people comment, sign and approve them. Open source (MIT).
 
 ---
 
