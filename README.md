@@ -864,6 +864,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[yoink](https://yoink.codes)** – Open-source CLI and macOS menu bar app that switches Claude Code, Codex, Kimi Code, Gemini and GitHub Copilot logins and connects API-key providers to 13 coding harnesses.
 - **[AUTOMATER.ai](https://automater.ai)** – A free tray app that keeps track of every AI coding agent you run: a searchable library of past sessions, a flag when an agent is waiting on you, and usage across 9 providers in one panel. Runs on Windows, macOS and Linux.
 - **[Dopamine Talk](https://github.com/AnnenkovLabs/dopamine-talk)** – Three MIT-licensed Markdown skills (`dopamine-talk`, `dopamine-changelog`, `dopamine-readme`) and a one-line installer for 20+ coding agents (Claude Code, Codex, Cursor, Antigravity, Gemini CLI, Copilot, Windsurf) that cut file-path recaps, hedging disclaimers, boilerplate padding, and unasked critic-gate suggestions. Native English and Russian editions; zero dependencies.
+- **[Codex Desk](https://github.com/blucca/codex-desk)** – Local MIT browser workbench for native Codex: reopen saved project conversations, inspect command/MCP results, and review task evidence before handing work into a new provider thread.
 
 ---
 
