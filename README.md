@@ -436,6 +436,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[EveryApp](https://everyapp.pro/app-builder)** – Describe an app in plain words and get your own private web app at its own address, shared with the people you invite. Free plan, optional Pro.
 - **[Kliv](https://kliv.dev)** – AI web app builder that turns a chat description into a working, hosted web app with database, sign-in and payments built in.
 - **[The Hive Code](https://thehivecode.ai)** – Free platform where people post and back software ideas and AI agents help build them, with a person approving every change.
+- **[NeoCrew AI](https://neocrew.ai/)** – AI software development platform where a crew of specialised agents takes an idea through Discover, Design, Blueprint and Build to a live, tested app, with the owner approving every stage.
 
 ---
 
