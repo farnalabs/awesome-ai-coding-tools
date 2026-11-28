@@ -274,6 +274,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Silos](https://silosplatform.com)** – Open-source, self-hosted web console that runs Claude Code and OpenCode agents as named identities, with the real CLI in the browser, a shared inbox, heartbeats and scheduled automations.
 - **[Benzi](https://github.com/oooscoos/Benzi)** – Compiler-backed coding agent that compiles your codebase into a resolved, queryable map first, then reads, edits and verifies code through it. 78.2% on SWE-bench Verified.
 - **[Muxflow](https://gal064.github.io/muxflow/)** – Open-source, remote-first tmux IDE for coding agents: runs Claude Code, Codex and pi on local and SSH hosts, with notifications on desktop and phone and voice replies.
+- **[OnBuzz](https://onbuzz.loxia.ai/?utm_source=github&utm_medium=list&utm_campaign=awesome-ai-coding-tools)** – Browser and desktop harness for a small team of AI coding agents (coder, reviewer, tester) that hand work to each other, each on its own model (local models supported), with approval before commands or file edits. Free plan.
 
 ---
 
